@@ -1,0 +1,10 @@
+[
+  {
+    "direction": "bullish"
+  },
+  {
+    "direction": "bearish",
+    "body_bucket": "20-40%",
+    "close_behavior": "inside_prev_range"
+  }
+]
